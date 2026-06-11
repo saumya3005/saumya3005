@@ -1,156 +1,172 @@
 <div align="center">
 
-# 👋 Hi, I'm Saumya Agrahari
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:9333EA&height=220&section=header&text=Saumya%20Agrahari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descSize=18&descAlignY=58"/>
 
-### Software Development Engineer • Full Stack Developer • AI/ML Engineer • Python Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Designing+Scalable+Backend+Systems;Creating+Production-Ready+Full-Stack+Apps;Elsevier+Published+Researcher;Hackathon+Winner+%7C+Backend+Intern+%7C+AI+Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Full+Stack+Developer;Software+Development+Engineer;AI%2FML+Engineer;Backend+Systems+Builder;Researcher+%7C+Hackathon+Winner+%7C+Open+Source+Enthusiast;Transforming+Ideas+Into+Scalable+Technology" />
+<br/>
 
-### Building AI-Powered Products, Scalable Backend Systems, and Impactful Full-Stack Applications
+<a href="https://github.com/saumya3005"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/saumya-agrahari-924900347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://instagram.com/saumyaagrahari._"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://saumya-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="mailto:saumyaagrahari262730@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-📍 Prayagraj, Uttar Pradesh, India
+<br/><br/>
 
-<p align="center">
-<a href="https://github.com/saumya3005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/saumya-agrahari-924900347"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/saumyaagrahari._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://saumya-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="mailto:saumyaagrahari262730@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=saumya3005&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.4%2F10-22C55E?style=for-the-badge"/>
 
 </div>
 
 ---
-
-# 🚀 Developer Showcase
 
 <div align="center">
 
-<img src="./Assets/output.gif" width="100%" alt="Developer Showcase"/>
+<img src="Assets/output.gif" width="100%" alt="Saumya Agrahari Developer Showcase"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1E3A8A&height=3&section=header"/>
 
-```yaml
-Name: Saumya Agrahari
+## <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af8-b0b9-aacf7f38e4c4.gif" width="35"/> About Me
 
-Role:
-  - Software Development Engineer
-  - Full Stack Developer
-  - AI/ML Engineer
+<table>
+<tr>
+<td width="55%">
 
-Education:
-  - Final Year B.Tech AIML Student
-  - United University, Prayagraj
-  - CGPA: 8.4/10
+### 👩‍💻 Who I Am
 
-Research:
-  - Elsevier Published Researcher
-  - Network Security & Intrusion Detection Systems
+I am **Saumya Agrahari**, a final-year **B.Tech Artificial Intelligence & Machine Learning** student at **United University, Prayagraj**.
 
-Experience:
-  - Backend Development Intern @ Prodesk IT
-  - Former Web Developer Intern @ Code Resite
-  - Freelance Full Stack Developer
+I build **AI-powered products, scalable backend systems, REST APIs, full-stack platforms, and ML-based solutions** with a strong focus on real-world impact.
 
-Achievements:
-  - Winner - UHack 4.0
-  - Winner - Google Build with AI
-  - Top 10 Finalist - NSUT National Hackathon
+* 🚀 Software Development Engineer
+* 🧠 AI/ML Engineer
+* ⚙️ Backend Development Intern @ Prodesk IT
+* 💻 Former Web Developer Intern @ Code Resite
+* 🏆 3x Hackathon Winner / Finalist
+* 📄 Elsevier Procedia Published Researcher
 
-Interests:
-  - Software Engineering
-  - Backend Development
-  - Full Stack Systems
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - System Design
-  - Open Source
+</td>
+<td width="45%">
+
+### ⚡ Highlights
+
+```text
+Location    : Prayagraj, India
+University  : United University
+Degree      : B.Tech AIML
+CGPA        : 8.4/10
+Research    : IDS + ML
+Focus       : Backend + AI + Full Stack
+Status      : Open to SDE / AI / Full Stack Roles
 ```
 
-I am a final-year Artificial Intelligence & Machine Learning student passionate about building intelligent products, scalable backend architectures, AI-powered applications, and production-grade full-stack systems. I enjoy solving real-world problems through technology, combining software engineering principles with modern AI capabilities.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Currently Working On
+## 🚀 Currently Building
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🔥 Current Focus
 
-* Building scalable backend systems
-* AI-powered SaaS applications
-* Full-stack production platforms
-* Modern developer ecosystem projects
-* Research-driven machine learning solutions
-* Real-world AI deployment pipelines
+* Scalable backend systems
+* AI-powered SaaS products
+* REST API architecture
+* Full-stack production apps
+* ML model deployment
+* Developer portfolio ecosystem
+
+</td>
+<td width="50%">
 
 ### 📚 Currently Learning
 
 * FastAPI
-* Advanced Django Architecture
-* AWS Cloud
+* Advanced Django
+* AWS
 * Docker & Kubernetes
 * Microservices
 * System Design
 * LLM Applications
 * RAG Systems
 * Vector Databases
-* Distributed Systems
 
-### 💬 Ask Me About
-
-```text
-Python • Django • FastAPI • React • Next.js
-AI/ML • OpenCV • TensorFlow • REST APIs
-Docker • PostgreSQL • System Design
-Prompt Engineering • Research Publications
-Hackathons • Backend Development
-```
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
-
-## Programming Languages
+## 💬 Ask Me About
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c"/>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/AI%2FML-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathons-F59E0B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Frontend Development
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:38BDF8&height=3&section=header"/>
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-0369A1?style=for-the-badge"/>
 
 </div>
 
----
-
-## Backend Development
+### 🎨 Frontend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux"/>
 
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge">
-<img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge">
-</p>
+### 🧠 AI / ML / Generative AI
 
----
+<div align="center">
 
-## Databases
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-1E40AF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-166534?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-991B1B?style=for-the-badge"/>
+
+</div>
+
+### 🗄️ Databases
 
 <div align="center">
 
@@ -158,244 +174,192 @@ Hackathons • Backend Development
 
 </div>
 
----
-
-## AI / Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge">
-<img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge">
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Computer_Vision-4B0082?style=for-the-badge">
-<img src="https://img.shields.io/badge/NLP-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Generative_AI-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLM_Integration-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/RAG_Systems-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Vector_Databases-darkred?style=for-the-badge">
-
-</p>
-
----
-
-## Cloud & DevOps
+### ☁️ Cloud, DevOps & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux,vercel,git,github,vscode,postman,figma"/>
 
 </div>
 
 ---
 
-## Tools & Platforms
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:9333EA&height=3&section=header"/>
 
-<div align="center">
+## 🌟 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase"/>
-
-</div>
-
----
-
-# 🌟 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
 ## 🤟 SignSetu
 
 ### AI Bidirectional Sign Language Platform
 
-**Tech Stack**
+**Tech:** Python, TensorFlow, OpenCV, MediaPipe, React.js, Flask, Firebase, Docker
 
-Python • TensorFlow • OpenCV • MediaPipe • React.js • Flask • Firebase • Docker
+* 🏆 Winner — UHack 4.0
+* 🥇 1st among 500+ participants
+* 📊 91%+ gesture recognition accuracy
+* 📚 5000+ custom ISL dataset samples
+* ⚡ Real-time Sign-to-Text
+* 🔊 Sign-to-Speech
+* 🤖 Text-to-Sign Avatar
 
-**Highlights**
-
-🏆 Winner — UHack 4.0
-
-🥇 1st Place among 500+ Participants
-
-📊 91%+ Gesture Recognition Accuracy
-
-📚 Custom ISL Dataset with 5000+ Samples
-
-⚡ Real-Time Sign-to-Text
-
-🔊 Sign-to-Speech
-
-🤖 Text-to-Sign Avatar
-
-🌍 Accessibility-First Communication Platform
-
----
+</td>
+<td width="50%">
 
 ## 🤖 QuickSeva
 
 ### AI Civic Services Assistant
 
-**Tech Stack**
+**Tech:** Python, React.js, Gemini API, Firebase, Prompt Engineering
 
-Python • React.js • Gemini API • Firebase • Prompt Engineering
+* 🏆 Winner — Google Build with AI
+* 🧠 LLM-powered citizen assistant
+* 🏛 Government scheme discovery
+* ⚡ Conversational AI interface
+* 🌐 Civic service support platform
 
-**Highlights**
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-🏆 Winner — Google Build with AI
+## 🕉️ Hanuman Pushpavarsha
 
-🧠 LLM-Powered Assistant
+### Full Stack Production Website
 
-🏛 Government Scheme Discovery
+**Tech:** Next.js, Firebase, Vercel
 
-⚡ Conversational Citizen Support
+* 🌐 Bilingual website
+* 💳 Payment gateway
+* 📺 Live streaming
+* 🛡 Role-based authentication
+* 📊 Admin dashboard
+* 👥 Community management
 
-🌐 AI-Powered Public Services Platform
+</td>
+<td width="50%">
+
+## 🧘 Aarogyam
+
+### Mental Wellness Platform
+
+**Tech:** JavaScript, Firebase, REST APIs
+
+* 🌱 9 therapy modules
+* 👥 100+ active users
+* 🔐 Firebase authentication
+* 🧠 Personalized wellness flow
+* 📱 Fully responsive UI
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🕉️ Hanuman Pushpavarsha Committee
-
-### Production Full Stack Platform
-
-**Tech Stack**
-
-Next.js • Firebase • Vercel
-
-**Features**
-
-✅ Bilingual Website
-
-✅ Live Streaming
-
-✅ Payment Gateway
-
-✅ Admin Dashboard
-
-✅ Role-Based Authentication
-
-✅ Community Management
-
----
-
-# 📄 Research Publication
+## 📄 Research Publication
 
 <div align="center">
 
-## Multi-Class Anomaly Detection in Network Traffic Using Supervised Machine Learning
-
-### Elsevier Procedia Computer Science
-
-### AICCT 2025
+<img src="https://img.shields.io/badge/Elsevier-Procedia%20Computer%20Science-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AICCT-2025-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-93.78%25%20Accuracy-22C55E?style=for-the-badge"/>
 
 </div>
 
-### Research Highlights
+### Multi-Class Anomaly Detection in Network Traffic Using Supervised Machine Learning
 
-* 175,000+ Network Records Analyzed
-* Intrusion Detection System Research
-* XGBoost Accuracy: 93.78%
-* Multi-Class Attack Classification
-* Ensemble Models Outperformed Linear Models
-* International Conference Presentation
+* ML-based Intrusion Detection System
 * CIC UNSW-NB15 Dataset
+* 175,000+ network records analyzed
+* Benchmarked Decision Tree, Random Forest, Logistic Regression, and XGBoost
+* XGBoost achieved **93.78% accuracy**
+* Selected for international conference presentation
 
 ---
 
-# 🏆 Achievements
-
-| Achievement | Recognition                               |
-| ----------- | ----------------------------------------- |
-| 🏆          | Winner — UHack 4.0                        |
-| 🏆          | Winner — Google Build with AI             |
-| 🥇          | Top 10 Finalist — NSUT National Hackathon |
-| 📄          | Elsevier Published Researcher             |
-| 🎤          | Lead Organizer — HackDiwas 3.0            |
-| 💼          | Backend Development Intern — Prodesk IT   |
-| 💻          | Web Developer Intern — Code Resite        |
-| 🚀          | Freelance Full Stack Developer            |
-
----
-
-# 🌍 Open Source & Community
-
-* Google Developer Groups (GDG) Prayagraj
-* FOSS Prayagraj
-* TEDx United University
-* WikiClub Tech UU
-* HackDiwas 3.0
-* Open Source Contributor
-* Developer Communities & Technical Events
-
----
-
-# 📊 GitHub Analytics
+## 🏆 Achievements
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saumya3005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya3005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true"/>
+| 🏅 Achievement             | 🚀 Recognition                       |
+| -------------------------- | ------------------------------------ |
+| 🏆 UHack 4.0               | Winner — 1st among 500+ participants |
+| 🏆 Google Build with AI    | Winner — GDG Hackathon               |
+| 🥇 NSUT National Hackathon | Top 10 Finalist                      |
+| 📄 Elsevier Procedia       | Published Researcher                 |
+| 🎤 HackDiwas 3.0           | Lead Organizer                       |
+| 💼 Prodesk IT              | Backend Development Intern           |
+| 💻 Code Resite             | Web Developer Intern                 |
+| 🌍 FOSS / GDG / WikiClub   | Community Contributor                |
 
 </div>
 
 ---
 
-# 🏅 GitHub Trophy Board
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:9333EA&height=3&section=header"/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saumya3005&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saumya3005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=9333EA&text_color=E5E7EB"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya3005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=9333EA&currStreakLabel=38BDF8"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saumya3005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=9333EA&point=FFFFFF"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 🏅 GitHub Trophy Board
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumya3005&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saumya3005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/saumya3005/saumya3005/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/saumya3005/saumya3005/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
 ---
 
-# 💭 Engineering Philosophy
+## 🌍 Open Source & Community
 
 <div align="center">
 
-> “Building technology that creates impact, one scalable system at a time.”
+<img src="https://img.shields.io/badge/GDG%20Prayagraj-4285F4?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/FOSS%20Prayagraj-0F172A?style=for-the-badge&logo=opensourceinitiative"/>
+<img src="https://img.shields.io/badge/TEDx%20Organizer-E62B1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WikiClub%20Tech%20UU-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HackDiwas%203.0-9333EA?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ☕ Connect & Collaborate
+## 💭 Engineering Philosophy
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=saumya3005&style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Open_Source-Enthusiast-success?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Coffee-Powered-brown?style=for-the-badge">
+### “Building technology that creates impact, one scalable system at a time.”
 
 </div>
 
@@ -403,9 +367,11 @@ Next.js • Firebase • Vercel
 
 <div align="center">
 
-### Thanks for visiting my profile ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:1E3A8A,100:0F172A&height=130&section=footer"/>
 
-#### Let's build something impactful together 🚀
+### Thanks for visiting my profile
+
+#### Let’s build something intelligent, scalable, and impactful.
 
 Made with ❤️ by **Saumya Agrahari**
 
