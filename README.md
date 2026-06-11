@@ -377,7 +377,11 @@ JavaScript • Firebase • REST APIs
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saumya3005&theme=tokyo-night&hide_border=true"/>
 
 </div>
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saumya3005&theme=tokyonight"/>
+
+</div>
 ---
 
 # 🏅 GitHub Trophy Board
