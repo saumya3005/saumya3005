@@ -138,7 +138,6 @@
 
 </div>
 
-# 🌟 Featured Projects
 
 # 🌟 Featured Projects
 
@@ -271,45 +270,23 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 
 </div>
 # 📊 GitHub Analytics
+# 📊 GitHub Analytics
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saumya3005&theme=tokyonight"/>
 
-</div>
-
-<br>
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saumya3005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya3005&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saumya3005&theme=tokyo-night&hide_border=true"/>
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saumya3005&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saumya3005&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saumya3005&theme=tokyonight"/>
 
-</div>
-</div>
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saumya3005&theme=tokyonight"/>
-
-</div>
----
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saumya3005&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saumya3005&theme=tokyonight"/>
+</div>
 # 🏅 GitHub Trophy Board
 
 <div align="center">
