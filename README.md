@@ -315,15 +315,6 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 </div>
 
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
----
 
 # 💭 Engineering Philosophy
 
