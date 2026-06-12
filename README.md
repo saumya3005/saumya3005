@@ -80,13 +80,6 @@
 
 ⚡ Fun Fact: I love turning ideas into real-world products.
 
-
----
-
-# 🎯 Current Focus
-
----
-
 # 🎯 Current Focus
 
 <div align="center">
@@ -99,7 +92,6 @@
 <img src="https://img.shields.io/badge/Exploring-RAG%20Systems-059669?style=for-the-badge"/>
 
 </div>
----
 
 # ⚡ Engineering Arsenal
 
@@ -284,30 +276,7 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true"/>
 
 </div>
-# ⚡ Productivity Graph
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saumya3005&theme=tokyonight"/>
-
-</div>
----
-
-# ⚡ Live Developer Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saumya3005&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saumya3005&theme=tokyonight"/>
-
-</div>
-
----
-
----
 
 # 💡 Random Dev Quote
 
