@@ -85,26 +85,20 @@
 
 # 🎯 Current Focus
 
-### Building
+---
 
-* Scalable Backend Systems
-* Full Stack SaaS Products
-* AI-Powered Applications
-* Production REST APIs
-* Intelligent Automation Tools
+# 🎯 Current Focus
 
-### Learning
+<div align="center">
 
-* FastAPI
-* Advanced Django Architecture
-* AWS Cloud
-* Docker & Kubernetes
-* System Design
-* Microservices
-* LLM Applications
-* RAG Systems
-* Vector Databases
+<img src="https://img.shields.io/badge/Building-AI%20Powered%20Apps-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building-Backend%20Systems-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-AWS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Docker-2496ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploring-RAG%20Systems-059669?style=for-the-badge"/>
 
+</div>
 ---
 
 # ⚡ Engineering Arsenal
@@ -269,9 +263,13 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
+
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saumya3005&theme=tokyonight"/>
 
@@ -306,6 +304,8 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saumya3005&theme=tokyonight"/>
 
 </div>
+
+---
 
 ---
 
