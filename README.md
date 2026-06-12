@@ -253,15 +253,7 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saumya3005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
 # 📊 GitHub Analytics
 
 <div align="center">
