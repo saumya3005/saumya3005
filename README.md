@@ -286,37 +286,13 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true"/>
 
 </div>
-# 🏅 GitHub Trophy Board
-
-# 🏅 GitHub Trophy Board
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saumya3005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
-<br>
+# ⚡ Productivity Graph
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saumya3005&theme=tokyonight"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saumya3005/saumya3005/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
----
-
 # 💡 Random Dev Quote
 
 <div align="center">
