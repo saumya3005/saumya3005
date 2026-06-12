@@ -231,7 +231,6 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 * 💻 Web Developer Intern — Code Resite
 * 🚀 Freelance Full Stack Developer
 
----
 
 # 🌍 Community & Leadership
 
@@ -249,7 +248,6 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 
 </div>
 
----
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -257,6 +255,13 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 </div>
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saumya3005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -286,7 +291,6 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 
 </div>
 
----
 
 # 🐍 Contribution Snake
 
