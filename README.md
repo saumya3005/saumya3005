@@ -109,7 +109,6 @@
 
 # ⚡ Engineering Arsenal
 
-# ⚡ Tech Stack
 
 <div align="center">
 
@@ -141,107 +140,77 @@
 
 # 🌟 Featured Projects
 
+# 🌟 Featured Projects
+
 <table>
 <tr>
-
 <td width="50%">
 
 ## 🤟 SignSetu
 
-### AI Bidirectional Sign Language Platform
+AI-powered bidirectional sign language translation platform for real-time communication.
 
-🏆 Winner — UHack 4.0
+🏆 **Winner — UHack 4.0**  
+📊 **91%+ Gesture Recognition Accuracy**  
+📚 **5000+ Custom ISL Dataset**  
+⚡ **Real-Time Sign-to-Text**  
+🔊 **Sign-to-Speech**  
+🤖 **Text-to-Sign Avatar**
 
-📊 91%+ Gesture Recognition Accuracy
-
-📚 5000+ Custom ISL Dataset
-
-⚡ Real-Time Sign-to-Text
-
-🔊 Sign-to-Speech
-
-🤖 Text-to-Sign Avatar
-
-**Tech**
-
-Python • TensorFlow • OpenCV • MediaPipe • React • Flask • Firebase • Docker
+**Tech:** Python • TensorFlow • OpenCV • MediaPipe • React • Flask • Firebase • Docker
 
 </td>
-
-<td width="50%">
-
-## 🤖 QuickSeva
-
-### AI Civic Services Assistant
-
-🏆 Winner — Google Build with AI
-
-🧠 Gemini Powered
-
-⚡ Conversational AI
-
-🏛 Government Scheme Discovery
-
-🌐 Citizen Support Platform
-
-**Tech**
-
-Python • React • Gemini API • Firebase • Prompt Engineering
-
-</td>
-
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ## 🕉️ Hanuman Pushpavarsha
 
-### Production Full Stack Website
+Production-grade community website for event, donation, and member management.
 
-🌐 Bilingual Platform
+🌐 **Bilingual Website**  
+💳 **Payment Gateway**  
+📺 **Live Streaming**  
+🔐 **Role-Based Authentication**  
+📊 **Admin Dashboard**  
+🚀 **Deployed on Vercel**
 
-💳 Payment Gateway
-
-📺 Live Streaming
-
-🔐 Role-Based Authentication
-
-📊 Admin Dashboard
-
-**Tech**
-
-Next.js • Firebase • Vercel
+**Tech:** Next.js • Firebase • Vercel
 
 </td>
+</tr>
 
+<tr>
+<td width="50%">
+
+## 🤖 QuickSeva
+
+LLM-powered civic services assistant for government scheme discovery.
+
+🏆 **Winner — Google Build with AI**  
+🧠 **Gemini Powered**  
+⚡ **Conversational AI**  
+🏛 **Government Scheme Assistant**  
+🌐 **Citizen Support Platform**
+
+**Tech:** Python • React • Gemini API • Firebase • Prompt Engineering
+
+</td>
 <td width="50%">
 
 ## 🧘 Aarogyam
 
-### Mental Wellness Platform
+Mental wellness platform with personalized therapy modules and Firebase backend.
 
-👥 100+ Users
+👥 **100+ Users**  
+🧠 **Personalized Wellness Modules**  
+🔐 **Firebase Authentication**  
+📱 **Responsive UI**  
+🌱 **Wellness-Focused Ecosystem**
 
-🧠 Personalized Wellness Modules
-
-🔐 Firebase Authentication
-
-📱 Responsive UI
-
-🌱 Wellness-Focused Ecosystem
-
-**Tech**
-
-JavaScript • Firebase • REST APIs
+**Tech:** JavaScript • Firebase • REST APIs
 
 </td>
-
 </tr>
 </table>
-
----
 
 # 📄 Research Publication
 
