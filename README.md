@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:7C3AED&text=Saumya%20Agrahari&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Product%20Builder
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:7C3AED&text=Saumya%20Agrahari&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Product%20Builder&descAlignY=58"/>
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+%E2%80%A2+Product+Builder;Building+AI-Powered+Products;Backend+Engineering+%26+System+Design;Research+%E2%80%A2+Open+Source+%E2%80%A2+Innovation;From+Ideas+to+Production+Systems;SignSetu+%E2%80%A2+Hanuman+Pushpavarsha" />
