@@ -288,16 +288,22 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 </div>
 # 🏅 GitHub Trophy Board
 
+# 🏅 GitHub Trophy Board
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saumya3005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saumya3005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
 
 </div>
+
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saumya3005&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saumya3005&theme=tokyonight"/>
 
 </div>
+
 ---
 
 # 🐍 Contribution Snake
