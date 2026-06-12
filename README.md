@@ -287,7 +287,6 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
