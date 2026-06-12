@@ -342,7 +342,13 @@ JavaScript • Firebase • REST APIs
 
 </div>
 # 📊 GitHub Analytics
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saumya3005&theme=tokyonight"/>
+
+</div>
+
+<br>
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saumya3005&show_icons=true&theme=tokyonight&hide_border=true"/>
