@@ -64,41 +64,26 @@
 
 # 👩‍💻 About Me
 
-```yaml
-Name: Saumya Agrahari
+# 👩‍💻 About Me
 
-Role:
-  - Software Development Engineer
-  - Full Stack Developer
-  - AI/ML Engineer
+### A passionate AI Engineer & Full Stack Developer from India
 
-Education:
-  - B.Tech Artificial Intelligence & Machine Learning
-  - United University, Prayagraj
-  - CGPA: 8.4/10
+🔭 Backend Development Intern @ Prodesk IT
 
-Current Position:
-  - Backend Development Intern @ Prodesk IT
+🎓 B.Tech Artificial Intelligence & Machine Learning • United University
 
-Previous Experience:
-  - Web Developer Intern @ Code Resite
-  - Freelance Full Stack Developer
+📄 Elsevier Published Researcher
 
-Research:
-  - Elsevier Procedia Computer Science
-  - Multi-Class Anomaly Detection in Network Traffic
+🏆 Winner — UHack 4.0
 
-Interests:
-  - Backend Engineering
-  - Full Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - System Design
-  - Open Source
-```
+🚀 Lead Organizer — HackDiwas 3.0
 
-I enjoy building scalable backend systems, intelligent applications, AI-powered products, and production-ready software solutions that solve real-world problems.
+🌱 Learning FastAPI, AWS, Docker, Kubernetes, RAG & System Design
+
+💬 Ask me about Python, Django, AI/ML, React, Next.js, Backend Systems & LLM Applications
+
+⚡ Fun Fact: I love turning ideas into real-world products.
+
 
 ---
 
