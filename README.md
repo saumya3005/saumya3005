@@ -62,7 +62,6 @@
 
 # 👩‍💻 About Me
 
-# 👩‍💻 About Me
 
 <div align="center">
 
@@ -130,18 +129,7 @@ Real-World Solutions
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-# 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Building-AI%20Powered%20Apps-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Building-Backend%20Systems-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-FastAPI-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-AWS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-Docker-2496ED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Exploring-RAG%20Systems-059669?style=for-the-badge"/>
-
-</div>
 
 # ⚡ Engineering Arsenal
 
