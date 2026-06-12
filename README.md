@@ -362,7 +362,13 @@ JavaScript • Firebase • REST APIs
 <br><br>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saumya3005&theme=tokyo-night&hide_border=true"/>
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saumya3005&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saumya3005&theme=tokyonight"/>
+
+</div>
 </div>
 <div align="center">
 
