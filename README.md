@@ -332,15 +332,40 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 
 # 💭 Engineering Philosophy
 
+
 <div align="center">
 
-### "Building technology that creates impact, one scalable system at a time."
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Think
+
+Break complex problems into simple, scalable systems.
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Build
+
+Turn ideas into AI-powered products and production-ready applications.
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Ship
+
+Learn fast, iterate faster, and create technology that makes impact.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Think+clearly.;Build+consistently.;Ship+with+impact.;Keep+learning.+Keep+building." />
 
 </div>
-
----
-
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,50:1E3A8A,100:0F172A"/>
 
