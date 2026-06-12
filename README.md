@@ -294,19 +294,13 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saumya3005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saumya3005&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saumya3005&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saumya3005&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya3005&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true"/>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
