@@ -270,7 +270,6 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 
 </div>
 # 📊 GitHub Analytics
-# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -310,7 +309,15 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 </div>
 
 ---
+---
 
+# 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 # 💭 Engineering Philosophy
 
 <div align="center">
