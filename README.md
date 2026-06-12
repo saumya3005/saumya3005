@@ -62,39 +62,57 @@
 
 # 👩‍💻 About Me
 
+# 👩‍💻 About Me
+
 <div align="center">
 
-### A passionate AI Engineer & Full Stack Developer from India
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&vCenter=true&width=900&lines=A+passionate+AI+Engineer+from+India;Building+AI-powered+products;Designing+scalable+backend+systems;Turning+ideas+into+real-world+applications" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Backend%20Intern-Prodesk%20IT-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/B.Tech-AIML-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Elsevier-Published%20Researcher-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UHack%204.0-Winner-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Intern-Prodesk%20IT-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elsevier%20Researcher-FF6F00?style=for-the-badge"/>
 
 <br><br>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🚀 Building
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70">
 
-AI-Powered Products  
-Scalable Backend Systems  
-Production REST APIs  
-Full-Stack Applications  
+### AI Builder
+
+Machine Learning  
+Computer Vision  
+LLM Applications  
+Prompt Engineering  
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🧠 Exploring
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70">
 
-FastAPI  
-AWS & Cloud  
-Docker & Kubernetes  
-RAG Systems  
+### Backend Engineer
+
+REST APIs  
+Django / FastAPI  
+System Design  
+Databases  
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="70">
+
+### Product Developer
+
+Full Stack Apps  
+SaaS Projects  
+Hackathon Builds  
+Real-World Solutions  
 
 </td>
 </tr>
@@ -102,15 +120,14 @@ RAG Systems
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=850&lines=I+build+AI-powered+products.;I+design+scalable+backend+systems.;I+ship+full-stack+applications.;I+turn+ideas+into+real-world+products." />
+<img src="https://img.shields.io/badge/Currently%20Learning-FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently%20Learning-AWS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploring-RAG%20Systems-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploring-Vector%20Databases-9333EA?style=for-the-badge"/>
 
 <br><br>
 
-💬 Ask me about **Python, Django, AI/ML, React, Next.js, Backend Systems & LLM Applications**
-
-<br>
-
-⚡ Fun Fact: **I love turning ideas into real-world products.**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 # 🎯 Current Focus
