@@ -109,75 +109,35 @@
 
 # ⚡ Engineering Arsenal
 
-## Backend Development
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express"/>
-
-</div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/JWT%20Authentication-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Microservices-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/System%20Design-059669?style=for-the-badge">
-</p>
-
----
-
-## Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux"/>
-
-</div>
-
----
-
-## AI / Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,react,nextjs,js,ts,html,css,tailwind,bootstrap,redux,postgres,mysql,mongodb,firebase,redis,aws,docker,linux,git,github,githubactions,vscode,postman,figma,vercel,tensorflow"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv">
+
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/XGBoost-1E40AF?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Computer%20Vision-9333EA?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/LLM%20Integration-111827?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/RAG%20Systems-059669?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Prompt%20Engineering-EA580C?style=for-the-badge">
 
 </div>
-
----
-
-## Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis"/>
-
-</div>
-
----
-
-## Cloud • DevOps • Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux,git,github,vscode,postman,figma,vercel"/>
-
-</div>
-
----
 
 # 🌟 Featured Projects
 
