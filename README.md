@@ -293,13 +293,42 @@ Mental wellness platform with personalized therapy modules and Firebase backend.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saumya3005&theme=tokyonight"/>
 
 </div>
+---
+
+# ⚡ Live Developer Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saumya3005&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saumya3005&theme=tokyonight"/>
+
+</div>
+
+---
+
 # 💡 Random Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
 # 💭 Engineering Philosophy
 
 <div align="center">
