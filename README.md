@@ -62,24 +62,57 @@
 
 # 👩‍💻 About Me
 
+<div align="center">
+
 ### A passionate AI Engineer & Full Stack Developer from India
 
-🔭 Backend Development Intern @ Prodesk IT
+<br>
 
-🎓 B.Tech Artificial Intelligence & Machine Learning • United University
+<img src="https://img.shields.io/badge/Backend%20Intern-Prodesk%20IT-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.Tech-AIML-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elsevier-Published%20Researcher-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UHack%204.0-Winner-22C55E?style=for-the-badge"/>
 
-📄 Elsevier Published Researcher
+<br><br>
 
-🏆 Winner — UHack 4.0
+<table>
+<tr>
+<td align="center" width="50%">
 
-🚀 Lead Organizer — HackDiwas 3.0
+### 🚀 Building
 
-🌱 Learning FastAPI, AWS, Docker, Kubernetes, RAG & System Design
+AI-Powered Products  
+Scalable Backend Systems  
+Production REST APIs  
+Full-Stack Applications  
 
-💬 Ask me about Python, Django, AI/ML, React, Next.js, Backend Systems & LLM Applications
+</td>
+<td align="center" width="50%">
 
-⚡ Fun Fact: I love turning ideas into real-world products.
+### 🧠 Exploring
 
+FastAPI  
+AWS & Cloud  
+Docker & Kubernetes  
+RAG Systems  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=850&lines=I+build+AI-powered+products.;I+design+scalable+backend+systems.;I+ship+full-stack+applications.;I+turn+ideas+into+real-world+products." />
+
+<br><br>
+
+💬 Ask me about **Python, Django, AI/ML, React, Next.js, Backend Systems & LLM Applications**
+
+<br>
+
+⚡ Fun Fact: **I love turning ideas into real-world products.**
+
+</div>
 # 🎯 Current Focus
 
 <div align="center">
