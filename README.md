@@ -356,10 +356,54 @@ Learn fast, iterate faster, and create technology that makes impact.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00E5FF,30:2563EB,60:7C3AED,100:020617"/>
-### Thanks for visiting my profile
+<div align="center">
 
-#### Let's build something intelligent, scalable, and impactful.
+<table>
+<tr>
+<td align="center">
 
-Made with ❤️ by **Saumya Agrahari**
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+together.;AI+%E2%80%A2+Code+%E2%80%A2+Impact" />
+
+<br><br>
+
+<h2>✨ Thanks for visiting my profile! ✨</h2>
+
+<p>
+I’m always excited to connect with amazing people, collaborate on meaningful projects,  
+and build solutions that create real-world impact.
+</p>
+
+<br>
+
+<a href="mailto:saumyaagrahari262730@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saumya-agrahari-924900347">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://saumya-phi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="Assets/Saumya_Agrahari_Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,30:7C3AED,65:2563EB,100:00E5FF"/>
+
+<br>
+
+<h3>Made with ❤️ by Saumya Agrahari</h3>
+
+</td>
+</tr>
+</table>
+
+</div>
 </div>
