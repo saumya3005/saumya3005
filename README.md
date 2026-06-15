@@ -53,15 +53,68 @@
 
 # 🚀 Engineering Snapshot
 
+# 🚀 Engineering Snapshot
+
 <div align="center">
 
-| 🏆 Achievements | 📄 Research | 💼 Experience | 🚀 Projects | 📊 ML Accuracy |
-| :-------------: | :---------: | :-----------: | :---------: | :------------: |
-|        3+       |   Elsevier  | 2 Internships |      5+     |     93.78%     |
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=AI+Engineer+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+Researcher;Building+AI-powered+products+and+backend+systems;Winner+%E2%80%A2+Published+Researcher+%E2%80%A2+Product+Builder" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🏆
+**3+**  
+Achievements
+
+</td>
+<td align="center" width="20%">
+
+### 📄
+**Elsevier**  
+Published Research
+
+</td>
+<td align="center" width="20%">
+
+### 💼
+**2**  
+Internships
+
+</td>
+<td align="center" width="20%">
+
+### 🚀
+**5+**  
+Projects
+
+</td>
+<td align="center" width="20%">
+
+### 📊
+**93.78%**  
+ML Accuracy
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/UHack%204.0-Winner-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Build%20With%20AI-Winner-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elsevier-Published%20Researcher-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Intern-Prodesk%20IT-22C55E?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Current%20Focus-AI%20Products-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Core%20Stack-Python%20%7C%20Django%20%7C%20React-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-FastAPI%20%7C%20AWS%20%7C%20RAG-9333EA?style=for-the-badge"/>
 
 </div>
-
----
 
 # 👩‍💻 About Me
 
