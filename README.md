@@ -57,7 +57,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=AI+Engineer+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+Researcher;Building+AI-powered+products+and+backend+systems;Winner+%E2%80%A2+Published+Researcher+%E2%80%A2+Product+Builder" />
 
 <br><br>
 
