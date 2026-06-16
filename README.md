@@ -453,12 +453,13 @@ and build solutions that create real-world impact.
 
 <div align="center">
 
-<img src="Assets/bye-ai-girl.gif" width="450"/>
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="180"/>
 
-### 🌌 End of Transmission
+## 🤖 AI Assistant Logging Off...
 
-The best project is still under development.
+Mission Continues.
 
+</div>
 </div>
 
 </td>
