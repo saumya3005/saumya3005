@@ -453,11 +453,11 @@ and build solutions that create real-world impact.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 
-## 🤖 AI Assistant Logging Off...
+### 🚀 Until the next commit...
 
-Mission Continues.
+Building. Learning. Shipping.
 
 </div>
 </div>
