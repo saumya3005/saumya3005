@@ -451,7 +451,15 @@ and build solutions that create real-world impact.
 
 <br>
 
-<h3>Made with ❤️ by Saumya Agrahari</h3>
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+
+### 🚀 Until the next commit...
+
+Building. Learning. Shipping.
+
+</div>
 
 </td>
 </tr>
