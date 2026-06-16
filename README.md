@@ -453,11 +453,11 @@ and build solutions that create real-world impact.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+<img src="Assets/bye-ai-girl.gif" width="450"/>
 
-### 🚀 Until the next commit...
+### 🌌 End of Transmission
 
-Building. Learning. Shipping.
+The best project is still under development.
 
 </div>
 
