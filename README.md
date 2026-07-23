@@ -225,15 +225,25 @@ Real-World Solutions
 
 ## 🤟 SignSetu
 
-AI-powered bidirectional sign language translation platform.
+AI-powered bidirectional sign language translation platform enabling seamless communication for the deaf and hard-of-hearing community.
 
-🏆 Winner — UHack 4.0
-📊 91%+ Gesture Recognition
-📚 5000+ Custom ISL Dataset
-⚡ Real-Time Detection
-🤖 3D Avatar Support
+🏆 Winner — UHack 4.0 (1st/500+ Participants)  
+📊 91%+ Gesture Recognition Accuracy  
+📚 5000+ Custom ISL Dataset  
+⚡ Real-Time Sign-to-Text & Sign-to-Speech  
+🤖 AI-powered 3D Text-to-Sign Avatar
 
-**Tech:** Python • TensorFlow • OpenCV • React • Flask • Firebase • Docker
+**Tech:** Python • TensorFlow • OpenCV • MediaPipe • React • Flask • Firebase • Docker
+
+<p align="center">
+<a href="https://signsetu-x-2.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://github.com/ayush26011/signsetu-x-2">
+<img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </td>
 
@@ -241,16 +251,26 @@ AI-powered bidirectional sign language translation platform.
 
 ## 📋 FlowSync
 
-Modern collaborative project management platform built for teams.
+Modern project management platform for teams with real-time collaboration and task management.
 
-📌 Project & Workspace Management
-📝 Kanban Task Boards
-👥 Team Collaboration
-💬 Real-time Comments & Activity
-🔔 Notifications
-⚡ Secure JWT Authentication
+📌 Workspace & Project Management  
+📝 Kanban Boards & Task Tracking  
+👥 Team Collaboration  
+💬 Real-time Updates  
+🔔 Notifications  
+🔐 Secure Authentication
 
 **Tech:** React • Node.js • Express • MongoDB • Socket.IO • JWT • Tailwind CSS
+
+<p align="center">
+<a href="https://flowsync-peach-five.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://github.com/saumya3005/flowsync">
+<img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </td>
 </tr>
@@ -260,66 +280,52 @@ Modern collaborative project management platform built for teams.
 
 ## 🌐 Vynk
 
-Developer-first social platform for students, creators, and tech communities.
+A modern social networking platform designed for developers, students, creators, and tech communities.
 
-👨‍💻 Developer Profiles
-🚀 Project Showcase
-💬 Community Discussions
-🤝 Networking
-📂 GitHub Integration
-✨ Modern Social Experience
+👨‍💻 Developer Profiles  
+🚀 Project Showcase  
+🤝 Community Networking  
+💬 Interactive Posts & Discussions  
+📂 GitHub Integration  
+✨ Modern Responsive UI
 
 **Tech:** React • Node.js • Express • MongoDB • JWT • Tailwind CSS
 
-</td>
+<p align="center">
+<a href="https://vynk1.vercel.app/login">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-<td width="50%">
-
-## 🤖 QuickSeva
-
-LLM-powered civic services assistant.
-
-🏆 Winner — Google Build with AI
-🧠 Gemini Powered
-🏛 Government Scheme Assistant
-⚡ Conversational AI
-🌍 Citizen Support Platform
-
-**Tech:** Python • React • Gemini API • Firebase • Prompt Engineering
+<a href="https://github.com/saumya3005/vynk">
+<img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ## 🕉️ Hanuman Pushpavarsha
 
-Production-grade community management platform.
+Production-grade community platform built for event management, donations, livestreaming, and administration.
 
-🌐 Bilingual Website
-💳 Razorpay Integration
-📺 Live Streaming
-🔐 Role-Based Authentication
+🌐 Bilingual Website  
+💳 Razorpay Payment Gateway  
+📺 Live Streaming  
+🔐 Role-Based Authentication  
 📊 Admin Dashboard
 
 **Tech:** Next.js • Firebase • Vercel
 
-</td>
+<p align="center">
+<a href="https://hanumanpushpavarsha.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-<td width="50%">
-
-## 🧘 Aarogyam
-
-Mental wellness platform focused on accessible healthcare support.
-
-👥 100+ Users
-🧠 Therapy Modules
-🔐 Firebase Authentication
-📱 Responsive UI
-🌱 Wellness Ecosystem
-
-**Tech:** JavaScript • Firebase • REST APIs
+<a href="https://github.com/saumya3005/hanumanpushpavarsha">
+<img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </td>
 </tr>
