@@ -225,32 +225,32 @@ Real-World Solutions
 
 ## 🤟 SignSetu
 
-AI-powered bidirectional sign language translation platform for real-time communication.
+AI-powered bidirectional sign language translation platform.
 
-🏆 **Winner — UHack 4.0**  
-📊 **91%+ Gesture Recognition Accuracy**  
-📚 **5000+ Custom ISL Dataset**  
-⚡ **Real-Time Sign-to-Text**  
-🔊 **Sign-to-Speech**  
-🤖 **Text-to-Sign Avatar**
+🏆 Winner — UHack 4.0
+📊 91%+ Gesture Recognition
+📚 5000+ Custom ISL Dataset
+⚡ Real-Time Detection
+🤖 3D Avatar Support
 
-**Tech:** Python • TensorFlow • OpenCV • MediaPipe • React • Flask • Firebase • Docker
+**Tech:** Python • TensorFlow • OpenCV • React • Flask • Firebase • Docker
 
 </td>
+
 <td width="50%">
 
-## 🕉️ Hanuman Pushpavarsha
+## 📋 FlowSync
 
-Production-grade community website for event, donation, and member management.
+Modern collaborative project management platform built for teams.
 
-🌐 **Bilingual Website**  
-💳 **Payment Gateway**  
-📺 **Live Streaming**  
-🔐 **Role-Based Authentication**  
-📊 **Admin Dashboard**  
-🚀 **Deployed on Vercel**
+📌 Project & Workspace Management
+📝 Kanban Task Boards
+👥 Team Collaboration
+💬 Real-time Comments & Activity
+🔔 Notifications
+⚡ Secure JWT Authentication
 
-**Tech:** Next.js • Firebase • Vercel
+**Tech:** React • Node.js • Express • MongoDB • Socket.IO • JWT • Tailwind CSS
 
 </td>
 </tr>
@@ -258,30 +258,66 @@ Production-grade community website for event, donation, and member management.
 <tr>
 <td width="50%">
 
+## 🌐 Vynk
+
+Developer-first social platform for students, creators, and tech communities.
+
+👨‍💻 Developer Profiles
+🚀 Project Showcase
+💬 Community Discussions
+🤝 Networking
+📂 GitHub Integration
+✨ Modern Social Experience
+
+**Tech:** React • Node.js • Express • MongoDB • JWT • Tailwind CSS
+
+</td>
+
+<td width="50%">
+
 ## 🤖 QuickSeva
 
-LLM-powered civic services assistant for government scheme discovery.
+LLM-powered civic services assistant.
 
-🏆 **Winner — Google Build with AI**  
-🧠 **Gemini Powered**  
-⚡ **Conversational AI**  
-🏛 **Government Scheme Assistant**  
-🌐 **Citizen Support Platform**
+🏆 Winner — Google Build with AI
+🧠 Gemini Powered
+🏛 Government Scheme Assistant
+⚡ Conversational AI
+🌍 Citizen Support Platform
 
 **Tech:** Python • React • Gemini API • Firebase • Prompt Engineering
 
 </td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🕉️ Hanuman Pushpavarsha
+
+Production-grade community management platform.
+
+🌐 Bilingual Website
+💳 Razorpay Integration
+📺 Live Streaming
+🔐 Role-Based Authentication
+📊 Admin Dashboard
+
+**Tech:** Next.js • Firebase • Vercel
+
+</td>
+
 <td width="50%">
 
 ## 🧘 Aarogyam
 
-Mental wellness platform with personalized therapy modules and Firebase backend.
+Mental wellness platform focused on accessible healthcare support.
 
-👥 **100+ Users**  
-🧠 **Personalized Wellness Modules**  
-🔐 **Firebase Authentication**  
-📱 **Responsive UI**  
-🌱 **Wellness-Focused Ecosystem**
+👥 100+ Users
+🧠 Therapy Modules
+🔐 Firebase Authentication
+📱 Responsive UI
+🌱 Wellness Ecosystem
 
 **Tech:** JavaScript • Firebase • REST APIs
 
