@@ -72,7 +72,7 @@ Achievements
 <td align="center" width="20%">
 
 ### 📄
-**Taylor & Francis Group**  
+**Taylor & Francis**  
 Published Research
 
 </td>
@@ -127,7 +127,6 @@ ML Accuracy
 <img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend%20Intern-Prodesk%20IT-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Elsevier%20Researcher-FF6F00?style=for-the-badge"/>
 
 <br><br>
 
