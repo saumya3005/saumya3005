@@ -334,8 +334,7 @@ Production-grade community platform built for event management, donations, lives
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Elsevier-Procedia%20Computer%20Science-orange?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/Taylor%20%26%20Francis-Research%20Publication-005A9C?style=for-the-badge&logo=googlescholar&logoColor=white">
 <img src="https://img.shields.io/badge/AICCT-2025-blue?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/XGBoost-93.78%25%20Accuracy-success?style=for-the-badge">
@@ -358,7 +357,7 @@ Production-grade community platform built for event management, donations, lives
 * 🥇 Winner — UHack 4.0
 * 🏆 Winner — Google Build with AI
 * 🥇 Top 10 Finalist — NSUT National Hackathon
-* 📄 Elsevier Published Researcher
+* 📄 Taylor & Francis Published Researcher
 * 🎤 Lead Organizer — HackDiwas 3.0
 * 💼 Backend Development Intern — Prodesk IT
 * 💻 Web Developer Intern — Code Resite
