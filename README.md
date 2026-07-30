@@ -72,7 +72,7 @@ Achievements
 <td align="center" width="20%">
 
 ### 📄
-**Elsevier**  
+**Taylor & Francis Group**  
 Published Research
 
 </td>
