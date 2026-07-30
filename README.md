@@ -33,7 +33,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=saumya3005&style=for-the-badge&color=0ea5e9">
 
-<img src="https://img.shields.io/badge/Elsevier-Published%20Researcher-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Taylor%20%26%20Francis-Research%20Publication-005A9C?style=for-the-badge&logo=googlescholar&logoColor=white">
 
 <img src="https://img.shields.io/badge/UHack%204.0-Winner-purple?style=for-the-badge">
 
