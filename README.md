@@ -26,7 +26,7 @@
 <a href="mailto:saumyaagrahari262730@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="Assets/Saumya_Agrahari_Resume.pdf">
+<a href="Assets/saumyaresume2026updated.pdf">
 <img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 <br><br>
