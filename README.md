@@ -480,7 +480,7 @@ and build solutions that create real-world impact.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="Assets/Saumya_Agrahari_Resume.pdf">
+<a href="Assets/Saumyaresume2026updated.pdf">
 <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
