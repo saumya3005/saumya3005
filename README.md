@@ -57,64 +57,39 @@
 
 <div align="center">
 
-
-<br><br>
-
 <table>
 <tr>
-<td align="center" width="20%">
 
-### 🏆
-**3+**  
+<td align="center" width="20%">
+<b>🏆</b><br><br>
+<b>3+</b><br>
 Achievements
-
 </td>
-<td align="center" width="20%">
 
-### 📄
-**Taylor & Francis**  
+<td align="center" width="20%">
+<b>📄</b><br><br>
+<b>Taylor &amp; Francis</b><br>
 Published Research
-
 </td>
+
 <td align="center" width="20%">
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 🏆
-**3x**  
-Hackathon Wins
-
-</td>
-<td align="center" width="20%">
-
-### 📄
-**Taylor & Francis**  
-Published Research
-
-</td>
-<td align="center" width="20%">
-
-### 💼
-**3**  
+<b>💼</b><br><br>
+<b>3</b><br>
 Internships
-
 </td>
-<td align="center" width="20%">
 
-### 🚀
-**4**  
+<td align="center" width="20%">
+<b>🚀</b><br><br>
+<b>4</b><br>
 Flagship Projects
-
 </td>
+
 <td align="center" width="20%">
-
-### 📊
-**93.78%**  
+<b>📊</b><br><br>
+<b>93.78%</b><br>
 ML Accuracy
-
 </td>
+
 </tr>
 </table>
 
@@ -122,15 +97,14 @@ ML Accuracy
 
 <img src="https://img.shields.io/badge/UHack%204.0-Winner-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google%20Build%20With%20AI-Winner-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Taylor%20%26%20Francis-Published%20Researcher-005A9C?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Backend%20Intern-Prodesk%20IT-22C55E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack%20Intern-CodeAlpha-FF6B35?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Current%20Focus-AI%20Products-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Current%20Focus-FlowSync%20%26%20Vynk-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Core%20Stack-Python%20%7C%20Django%20%7C%20React-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-FastAPI%20%7C%20AWS%20%7C%20RAG-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-System%20Design%20%7C%20AWS%20%7C%20LLMs-9333EA?style=for-the-badge"/>
 
 </div>
 
