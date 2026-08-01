@@ -78,16 +78,34 @@ Published Research
 </td>
 <td align="center" width="20%">
 
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🏆
+**3x**  
+Hackathon Wins
+
+</td>
+<td align="center" width="20%">
+
+### 📄
+**Taylor & Francis**  
+Published Research
+
+</td>
+<td align="center" width="20%">
+
 ### 💼
-**2**  
+**3**  
 Internships
 
 </td>
 <td align="center" width="20%">
 
 ### 🚀
-**5+**  
-Projects
+**4**  
+Flagship Projects
 
 </td>
 <td align="center" width="20%">
