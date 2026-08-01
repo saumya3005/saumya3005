@@ -104,7 +104,6 @@ ML Accuracy
 
 <img src="https://img.shields.io/badge/UHack%204.0-Winner-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google%20Build%20With%20AI-Winner-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Elsevier-Published%20Researcher-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend%20Intern-Prodesk%20IT-22C55E?style=for-the-badge"/>
 
 <br><br>
