@@ -417,7 +417,13 @@ Production-grade community platform built for event management, donations, lives
 <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=saumya3005&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saumya3005&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumya3005&theme=tokyo-night&hide_border=true"/>
+</p>
 
 # 💡 Random Dev Quote
 
