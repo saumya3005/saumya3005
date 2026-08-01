@@ -122,7 +122,9 @@ ML Accuracy
 
 <img src="https://img.shields.io/badge/UHack%204.0-Winner-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google%20Build%20With%20AI-Winner-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Taylor%20%26%20Francis-Published%20Researcher-005A9C?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Backend%20Intern-Prodesk%20IT-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Intern-CodeAlpha-FF6B35?style=for-the-badge"/>
 
 <br><br>
 
